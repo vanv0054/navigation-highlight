@@ -13,7 +13,7 @@ html {
 }
 
 h1 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   color: #cc1465;
   font-size: 3em;
   text-align: center;
@@ -48,7 +48,7 @@ nav a {
 }
 
 main h2 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   color: #cc1465;
   text-align: left;
   font-size: 1.875rem;
