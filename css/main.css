@@ -83,3 +83,7 @@ main {
   margin-top: 0;
   padding-bottom: .3em;
 }
+
+img {
+  width: 100%;
+}
