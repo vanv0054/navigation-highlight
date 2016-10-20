@@ -14,7 +14,7 @@ html {
 
 h1 {
   font-family: "Sigmar One", cursive;
-  color: #cc1465;
+  color: #b20953;
   font-size: 3em;
   text-align: center;
   margin: 0;
@@ -49,7 +49,7 @@ nav a {
 
 main h2 {
   font-family: "Sigmar One", cursive;
-  color: #cc1465;
+  color: #b20953;
   text-align: left;
   font-size: 1.875rem;
 }
@@ -69,7 +69,7 @@ main p {
 }
 
 .nav .current {
-  background-color: #cc1465;
+  background-color: #b20953;
 }
 
 body {
@@ -88,4 +88,8 @@ main {
 img {
   width: 100%;
   display: block;
+}
+
+a:hover {
+  background-color: #cc1465;
 }
