@@ -21,6 +21,7 @@ h1 {
 
 header {
   background-color: #ffe500;
+  margin: 0;
 }
 
 nav ul {
@@ -49,4 +50,18 @@ nav a:hover {
 main h2 {
   font-family: 'Sigmar One', cursive;
   color: #cc1465;
+  text-align: left;
+  font-size: 1.875rem;
+}
+
+footer {
+  background-color: #ffe500;
+  text-align: center;
+  font-family: Georgia;
+  margin: 0;
+}
+
+main p {
+  font-family: Georgia;
+  font-size: 1.125rem;
 }
