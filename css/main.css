@@ -42,7 +42,6 @@ nav a {
   background-color: #b2a212;
   border-radius: 4px;
   color: #fff;
-  padding: .2em .5em .3em;
   margin: 0 0 .2em;
   padding: 10px;
 }
@@ -89,6 +88,7 @@ main {
 img {
   width: 100%;
   display: block;
+  padding-bottom: 1em;
 }
 
 a:hover {
