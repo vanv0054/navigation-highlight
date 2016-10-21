@@ -90,7 +90,7 @@ main {
 img {
   width: 100%;
   display: block;
-  padding-bottom: 1em;
+  padding-bottom: .5em;
 }
 
 a:hover {
