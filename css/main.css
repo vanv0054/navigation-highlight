@@ -23,6 +23,7 @@ h1 {
 header {
   background-color: #ffe500;
   margin: 0;
+  margin-bottom: .3em;
 }
 
 nav ul {
