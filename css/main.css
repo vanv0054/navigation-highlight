@@ -102,3 +102,7 @@ img {
 a:hover {
   background-color: #cc1465;
 }
+
+footer small {
+  font-size: .9em;
+}
