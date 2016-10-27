@@ -31,7 +31,7 @@ nav ul {
   font-size: 1.125rem;
   text-align: center;
   padding: 0;
-  margin: 0;
+  margin: 0 0 .2em;
 }
 
 nav li {
@@ -103,6 +103,6 @@ a:hover {
   background-color: #cc1465;
 }
 
-footer small {
+small {
   font-size: .9em;
 }
